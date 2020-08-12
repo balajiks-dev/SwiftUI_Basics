@@ -1,4 +1,4 @@
-# Basics of Swift UI,
+# Basics of Swift UI
 
 Hello Developers,
 This repo is the Introduction to the basics of Swift UI.
