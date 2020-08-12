@@ -1,4 +1,6 @@
-# Hello Developers,
+# Basics of Swift UI,
+
+Hello Developers,
 This repo is the Introduction to the basics of Swift UI.
 This Code contains Usage of VStack, HStack, TextView, ImageView.
 
