@@ -6,7 +6,7 @@ This Code contains Usage of VStack, HStack, TextView, ImageView.
 
 Audience Target: One comes new to SwiftUI
 
-Screenshot: https://user-images.githubusercontent.com/24551909/90107746-e49b3100-dd66-11ea-871e-b64e0ce767e4.png
+Outcome Screenshot: https://user-images.githubusercontent.com/24551909/90107746-e49b3100-dd66-11ea-871e-b64e0ce767e4.png
 
 
 
